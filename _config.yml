@@ -1,11 +1,11 @@
-name: 
-author: 
-url: "https//tachung2.github.io"
-baseurl: 
-resume_site: 
-description: 
-github_username: 
-github: 
+name: T-블로그
+author: 타청
+url: https//tachung2.github.io
+resume_site: https//tachung2.github.io
+baseurl:  
+description: 타청의 개발블로그입니다. 주로 스프링을 공부하며 부과적으로 게임을 만들고 임베디드 프로그래밍과 인공지능을 공부합니다. 
+github_username: tachung2
+github: https://github.com/tachung2
 plugins: [jekyll-paginate]
 permalink: /:year-:month-:day-:title
 paginate: 12
@@ -17,6 +17,6 @@ comments :
   gitalk :
     clientID : 
     clientSecret : 
-    repo : 
-    owner : 
-    admin : 
+    repo : tachung2.github.io
+    owner : tachung2 
+    admin : tachung2
