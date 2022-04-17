@@ -15,8 +15,8 @@ highlighter: rouge
 markdown: kramdown
 comments :
   gitalk :
-    clientID : 
-    clientSecret : 
+    clientID : 5c604915c1b83d35c434
+    clientSecret : 3979005d03db43416f427236762c75d36b3599ab
     repo : tachung2.github.io
     owner : tachung2 
     admin : tachung2
