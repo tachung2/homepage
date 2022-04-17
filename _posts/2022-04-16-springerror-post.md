@@ -3,7 +3,7 @@ layout: post
 title: 스프링부트하면서 업데이트로 바뀐 점
 date: 2022-04-16 00:00:00 +0800
 category: springboot
-thumbnail: /style/image/thumbnail.png
+thumbnail: ../style/image/thumbnail.png
 icon: book
 ---
 
@@ -25,8 +25,7 @@ icon: book
 먼저 인텔리제이를 사용하는데 버전이 바뀌어 gradle.build부터 다시 손을 보게 되었다.
 
 
-<img src="style\image\gradle.png">
-
+![gradle](../style/image/gradle.png)
 
 
 ## 자료 확인
