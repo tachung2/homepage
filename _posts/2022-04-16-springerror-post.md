@@ -16,9 +16,23 @@ icon: book
 "스프링부트와 AWS로 혼자 구현하는 웹 서비스"라는 책을 오랜만에 꺼내 공부하는데 처음부터 막히는 구간이 있다.
 먼저 인텔리제이를 사용하는데 버전이 바뀌어 gradle.build부터 다시 손을 보게 되었다.
 
+
+<img src="style\image\gradle.png">
+
+
+
 ## 자료 확인
 
 https://github.com/tachung2/vele-springboot2-webservice/blob/master/build.gradle
+
+
+
+
+
+
+
+
+
 
 ## 주요 내용
 
