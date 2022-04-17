@@ -3,7 +3,7 @@ layout: post
 title: 스프링부트하면서 업데이트로 바뀐 점
 date: 2022-04-16 00:00:00 +0800
 category: springboot
-thumbnail: ../style/image/thumbnail.png
+thumbnail: /style/image/thumbnail.png
 icon: book
 ---
 
