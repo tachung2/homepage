@@ -30,7 +30,8 @@ icon: book
 
 ## 자료 확인
 
-<link href="https://github.com/tachung2/vele-springboot2-webservice/blob/master/build.gradle">
+https://github.com/tachung2/vele-springboot2-webservice/blob/master/build.gradle
+<https://github.com/tachung2/vele-springboot2-webservice/blob/master/build.gradle>
 
 
 
