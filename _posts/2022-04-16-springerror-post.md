@@ -25,7 +25,7 @@ icon: book
 먼저 인텔리제이를 사용하는데 버전이 바뀌어 gradle.build부터 다시 손을 보게 되었다.
 
 
-<img src="../style/image/gradle.png">
+![gradle](https://user-images.githubusercontent.com/40621278/163697769-25eb5623-6c74-4e12-bba3-da5a7a1c63d9.png)
 
 
 ## 자료 확인
